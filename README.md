@@ -1,4 +1,5 @@
 📊 Insurance Risk & Claims Analysis Dashboard (Power BI)
+
 📌 Project Overview
 
 This project presents an end-to-end Insurance Risk & Claims Analysis Dashboard built entirely using Power BI. The objective is to analyze policy and claims data to identify risk exposure, claim trends, and customer segmentation patterns that support data-driven insurance decision-making.
